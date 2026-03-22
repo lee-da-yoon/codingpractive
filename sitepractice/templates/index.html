@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <button class="main_btn">HOME</button>            
+        <button class="page_btn" id="first_page_btn">1</button>
+        <button class="page_btn" id="second_page_btn">2</button>
+    </header>
+
+    <p>
+        <div id="first_banner" class="banner"></div>
+
+    </p>
+
+    <div class="content">
+        <h1>메인 박스</h1>
+        <p>메인 박스 내용입니다.</p>
+    </div> 
+
+
+    <script>
+        const second_page_btn = document.getElementById('second_page_btn');
+        second_page_btn.onclick = function(){
+            location.href = 'index_2.html'
+        };
+
+        const banner = document.querySelector('.banner');
+        banner.onclick = function(){
+            location.href = 'index_2.html'
+        };
+    </script>
+
+</body>
+
+
+
+</html>
