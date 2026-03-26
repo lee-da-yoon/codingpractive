@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\codingpractice\\C_bootcamp\\gitTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87CB8587-F9FF-4342-A04E-7FD1304054FE}|..\\..\\..\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\Haedal.vcxproj|C:\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{87CB8587-F9FF-4342-A04E-7FD1304054FE}|..\\..\\..\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\Haedal.vcxproj|C:\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\2chasi.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +18,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "test.c",
-              "DocumentMoniker": "C:\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\test.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\test.c",
-              "ToolTip": "C:\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\test.c",
-              "RelativeToolTip": "..\\..\\..\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\test.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Title": "2chasi.c",
+              "DocumentMoniker": "C:\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\2chasi.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\2chasi.c",
+              "ToolTip": "C:\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\2chasi.c",
+              "RelativeToolTip": "..\\..\\..\\Users\\dlekd\\OneDrive\\Desktop\\folder\\Haedal\\2chasi.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-22T12:52:19.207Z",
+              "WhenOpened": "2026-03-26T10:04:11.647Z",
               "EditorCaption": ""
             }
           ]

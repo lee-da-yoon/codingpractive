@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../../../Users/dlekd/OneDrive/Desktop/folder/Haedal/Haedal.vcxproj" />
-  <Project Path="gitTest/gitTest.vcxproj" />
+  <Project Path="../../../Users/dlekd/OneDrive/Desktop/folder/Haedal/Haedal.vcxproj" Id="87cb8587-f9ff-4342-a04e-7fd1304054fe" />
+  <Project Path="gitTest/gitTest.vcxproj" Id="2037a049-782b-46d8-8e00-9ea433f5a95e" />
 </Solution>

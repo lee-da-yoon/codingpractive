@@ -1,7 +1,0 @@
-﻿  firstfile.c
-C:\codingpractice\Project1\Project1\firstfile.c(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
-C:\codingpractice\Project1\Project1\firstfile.c(4,26): warning C4474: 'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-      C:\codingpractice\Project1\Project1\firstfile.c(4,26):
-      자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
-  
-C:\codingpractice\Project1\Project1\firstfile.c(4,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
