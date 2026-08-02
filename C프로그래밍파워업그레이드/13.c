@@ -7,7 +7,7 @@ int main (){
         k = scanf("%d", &n);
         if (k == EOF) {
           printf("EOF 입력에 의해 프로그램을 종료합니다.");
-          return 0;
+          return ;
         }        
 
         else if (n < 1)
